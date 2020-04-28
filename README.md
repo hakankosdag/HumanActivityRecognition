@@ -7,10 +7,10 @@ Veri setinde toplam da 10.300 adet veri bulunmakta olup bu verilerin %70'i eğit
 
 Problemin çözümüne ilişkin başarı sonuçları aşağıdaki tabloda verilmiştir.
 
-Doğruluk Başarısı (Accuracy): %88\n
-Kesinlik Başarısı (Precision):%88\n
-Duyarlılık Başarısı (Recall):%89\n
-Özgünlük Başarısı (Specificity):%86\n
-F1-Score:%88\n
+Doğruluk Başarısı (Accuracy): %88
+Kesinlik Başarısı (Precision):%88
+Duyarlılık Başarısı (Recall):%89
+Özgünlük Başarısı (Specificity):%86
+F1-Score:%88
 
 Source klasörü altında uygulamanın kaynak kodlarını program klasörünün altın da ise uygulamayı bulabilirsiniz.
