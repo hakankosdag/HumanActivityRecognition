@@ -1,0 +1,2 @@
+# HumanActivityRecognition
+K-Means Clustering
